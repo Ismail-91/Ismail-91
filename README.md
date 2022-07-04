@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ismail-91
 - 👀 I’m interested in frontend web developing
 - 🌱 I’m currently learning react.js
-- 📫 How to reach me: https://t.me/Ikramovich_uzb
+- 📫 How to reach me: https://t.me/Ikramovich_uzb , 
 https://www.instagram.com/ismail.ikromovich/
 
 <!---
